@@ -41,5 +41,5 @@ Start the server
 
 ## Screenshots
 
-[![Calculator-img.png](https://i.postimg.cc/Nj9SJ7C1/Calculator-img.png)](https://postimg.cc/K1b04L2z)
+[![Calculator-img.png](https://i.postimg.cc/7YsMCFVV/Calculator-img.png)](https://postimg.cc/HVM7RPFc)
 
