@@ -28,6 +28,11 @@
   color: rgb(146, 25, 25);
 }
 
+.button-section {
+  display: flex;
+  gap: 9px;
+}
+
 
 button {
   width: 70px;
