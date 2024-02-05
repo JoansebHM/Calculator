@@ -63,11 +63,11 @@ const App = () => {
         <button onClick={() => handleButtonClick('AC')}>AC</button>
         <button onClick={() => handleButtonClick('DE')}>DE</button>
         <button onClick={() => handleButtonClick('.')}>.</button>
-        <button onClick={() => handleButtonClick('/')}>/</button>
+        <button onClick={() => handleButtonClick('/')}>÷</button>
         <button onClick={() => handleButtonClick('7')}>7</button>
         <button onClick={() => handleButtonClick('8')}>8</button>
         <button onClick={() => handleButtonClick('9')}>9</button>
-        <button onClick={() => handleButtonClick('*')}>*</button>
+        <button onClick={() => handleButtonClick('*')}>x</button>
         <button onClick={() => handleButtonClick('4')}>4</button>
         <button onClick={() => handleButtonClick('5')}>5</button>
         <button onClick={() => handleButtonClick('6')}>6</button>
